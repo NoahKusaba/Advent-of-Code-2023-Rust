@@ -1,6 +1,6 @@
 # Advent-of-Code-2023-Rust
 
-To run problems for each day use the following command in your termianl (You will need a Rust build-system like Cargo installed):
+To run problems for each day use the following command in your termianl (You will need a Rust build-system like Cargo installed). 
 
     -   cargo run --bin day10
 
